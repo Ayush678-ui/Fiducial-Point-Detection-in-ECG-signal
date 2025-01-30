@@ -8,9 +8,9 @@ This project focuses on detecting fiducial points (P, Q, R, S, T waves) in ECG (
 - echo "[Download ECG Data]"(.https://raw.githubusercontent.com/Ayush678-ui/Fiducial-Point-Detection-in-ECG-signal/refs/heads/main/ecg.csv) >> README.md
 ### Steps performed
 
--load ecg data from csv file to MATLAB
--Preprocessing: Bandpass filter to remove noise
--Design a bandpass filter
--Find R-peaks using findpeaks function
--Plot the original and filtered ECG signal, and detected peaks
--Display detected fiducial points (R-peaks)
+- load ecg data from csv file to MATLAB
+- Preprocessing: Bandpass filter to remove noise
+- Design a bandpass filter
+- Find R-peaks using findpeaks function
+- Plot the original and filtered ECG signal, and detected peaks
+- Display detected fiducial points (R-peaks)
