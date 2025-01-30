@@ -5,4 +5,4 @@ This project focuses on detecting fiducial points (P, Q, R, S, T waves) in ECG (
 - **MATLAB** (R2024a or later recommended)
 - Signal Processing Toolbox (for filtering and peak detection)
 - CSV file containing ECG data
-- echo "[Download ECG Data](.https://raw.githubusercontent.com/Ayush678-ui/Fiducial-Point-Detection-in-ECG-signal/refs/heads/main/ecg.csv) >> README.md
+- echo "[Download ECG Data]"(.https://raw.githubusercontent.com/Ayush678-ui/Fiducial-Point-Detection-in-ECG-signal/refs/heads/main/ecg.csv) >> README.md
